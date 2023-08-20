@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RabbitMQExample",
+    "\\RabbitMQExample\\CreateConnect"
   ],
-  "SelectedNode": "\\C:\\Users\\Netix-122\\source\\repos\\RabbitMQExample",
+  "SelectedNode": "\\RabbitMQExample\\CreateConnect\\Connect.cs",
   "PreviewInSolutionExplorer": false
 }
